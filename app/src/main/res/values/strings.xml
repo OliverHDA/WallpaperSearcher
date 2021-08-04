@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wallpaper Searcher</string>
+    <string name="category">Category</string>
+    <string name="choose_category">Choose category</string>
+    <string name="picture_preview">Picture preview</string>
+    <string name="wallpaper_image_description">Image to set as wallpaper</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="connection_error">Connection error</string>
+    <string name="try_again">Try again</string>
+</resources>
